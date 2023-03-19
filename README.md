@@ -6,7 +6,7 @@ The SQL Query Generator is a project that allows non-technical users to interact
 
 To use the SQL Query Generator, you will need to have a Jupyter Notebook environment set up on your machine. You will also need to have an API key from OpenAI to use their completion API.
 
-Once you have these prerequisites, you can clone the project code from this GitHub repository and open the SQL_Query_Generator.ipynb file in your Jupyter Notebook environment.
+Once you have these prerequisites, you can clone the project code from this GitHub repository and open the `SQL_Query_Generator.ipynb` file in your Jupyter Notebook environment.
 
 ## Usage
 
