@@ -12,8 +12,27 @@ Once you have these prerequisites, you can clone the project code from this GitH
 
 To use the SQL Query Generator, follow these steps:
 
+```
   1. Start by providing a natural language input in the provided cell.
 
   2. Run the cell to generate a SQL query based on your input.
 
   3. Use the generated query to interact with your SQL database as needed.
+  
+```
+  
+### Example Input and generated SQL query
+
+#### Input
+
+``` 
+A query to answer: return the Sum of SALES per POSTALCODE 
+
+```
+
+#### Generated Query
+
+```
+Select POSTALCODE, SUM(SALES) FROM Sales GROUP BY POSTALCODE
+
+```
