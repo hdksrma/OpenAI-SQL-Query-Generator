@@ -12,8 +12,8 @@ Once you have these prerequisites, you can clone the project code from this GitH
 
 To use the SQL Query Generator, follow these steps:
 
-1. Start by providing a natural language input in the provided cell.
+  1. Start by providing a natural language input in the provided cell.
 
-2. Run the cell to generate a SQL query based on your input.
+  2. Run the cell to generate a SQL query based on your input.
 
-3. Use the generated query to interact with your SQL database as needed.
+  3. Use the generated query to interact with your SQL database as needed.
